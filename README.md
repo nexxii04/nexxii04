@@ -6,7 +6,7 @@ I am a developer focused on building high-performance systems and efficient back
 
 Currently, I divide my time between scaling backend solutions and exploring the internals of memory management and system resources.
 
-- ⚙️ **Current Challenge:** Developing a custom Minecraft Bedrock server engine from scratch in **Zig**.
+
 - 🛠️ **Open Source:** Active contributor at **BetterAltay**, focusing on core logic and performance.
 - 👨‍💻 **Tech Focus:** Backend engineering with **Go**, **PHP (Laravel)** and **Cloud Infrastructure**.
 - 🐳 **DevOps:** Managing environments with **Docker** and **Kubernetes**.
@@ -16,7 +16,7 @@ Currently, I divide my time between scaling backend solutions and exploring the 
 
 ### 🛠️ My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=zig,go,php,laravel,postgres,mongodb,mysql,postman,docker,kubernetes,js,lua,linux,git,github,neovim,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zig,go,php,js,lua,laravel,postgres,mongodb,mysql,postman,docker,kubernetes,linux,git,github,neovim,bash&perline=8)](https://skillicons.dev)
 
 ---
 
