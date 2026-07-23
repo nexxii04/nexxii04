@@ -31,3 +31,6 @@ I build robust backend systems, high-performance network applications, and low-l
 * **Email:** [bubadrammehsinera@gmail.com](mailto:bubadrammehsinera@gmail.com)
 * **Discord:** `_nexxii`
   
+---
+
+<img src="https://raw.githubusercontent.com/nexxii04/nexxii04/output/snake.svg" alt="Snake animation" />
