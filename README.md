@@ -21,7 +21,7 @@ I build robust backend systems, high-performance network applications, and low-l
 * 🔌 **[php-zig](https://github.com/VantStudios/php-zig):** Creator of a Zig library for building native PHP extensions without official C headers, leveraging direct ABI bindings for cross-compilation (Linux & Windows).
 * ⚙️ **[Protocol](https://github.com/VantStudios/Protocol):** Minecraft Bedrock Edition network protocol implementation written in **Zig (0.16.0)**.
 * 📦 **[NBT](https://github.com/VantStudios/Nbt):** Named Binary Tag (NBT) parser and serializer written in **Zig (0.16.0)**.
-* 🛠 **[Gopivote](https://github.com/nexxii04/gopivote):** A TUI/CLI utility written in **Go** to automate module renaming, import path updates, and `go.mod` refactoring in Go projects.
+* 🛠 **[Gopivot](https://github.com/nexxii04/gopivot):** A TUI/CLI utility written in **Go** to automate module renaming, import path updates, and `go.mod` refactoring in Go projects.
 * 🌐 **[BetterAltay](https://github.com/Benedikt05/BetterAltay):** Open-source contributor focusing on core server logic and performance optimizations.
 
 ---
