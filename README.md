@@ -19,8 +19,8 @@ I build robust backend systems, high-performance network applications, and low-l
 
 * 🏥 **[Viper SaaS](https://github.com/imcs-tech) `[WIP]`:** Co-Owner & Lead Backend Developer for a proprietary multi-tenant clinical management software designed for medical institutions, built with a microservices architecture in **Go**.
 * 🔌 **[php-zig](https://github.com/VantStudios/php-zig):** Creator of a Zig library for building native PHP extensions without official C headers, leveraging direct ABI bindings for cross-compilation (Linux & Windows).
-* ⚙️ **[Protocol](https://github.com/VantStudios/Protocol):** Minecraft Bedrock Edition network protocol implementation written in **Zig (0.16.0)**.
-* 📦 **[NBT](https://github.com/VantStudios/Nbt):** Named Binary Tag (NBT) parser and serializer written in **Zig (0.16.0)**.
+* ⚙️ **[Protocol](https://github.com/VantStudios/Protocol):** Minecraft Bedrock Edition network protocol implementation written in **Zig**.
+* 📦 **[NBT](https://github.com/VantStudios/Nbt):** Named Binary Tag (NBT) parser and serializer written in **Zig**.
 * 🛠 **[Gopivot](https://github.com/nexxii04/gopivot):** A TUI/CLI utility written in **Go** to automate module renaming, import path updates, and `go.mod` refactoring in Go projects.
 * 🌐 **[BetterAltay](https://github.com/Benedikt05/BetterAltay):** Open-source contributor focusing on core server logic and performance optimizations.
 
