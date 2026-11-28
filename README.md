@@ -1,14 +1,15 @@
-# Buba Drammeh Sinera (Nexxii)
+# Bubacarr Drammeh (Nexxii)
 
-**Backend & Systems Developer**
-
-Software engineer building distributed multi-tenant services and low-level systems. Go and Zig are my main tools, applied to problems where memory behavior, protocol design, and clean interfaces between languages matter.
+Backend developer working on distributed multi-tenant services and low-level systems.
+Go and Zig are my main tools, applied to problems where memory behavior, protocol design,
+and clean interfaces between languages matter.
 
 **Focus:** Multi-tenancy & Microservices · gRPC & REST · Binary Protocols (UDP) · C-ABI / FFI
 
-**Core Stack:** Go · Zig · PostgreSQL · Docker · Linux · PHP
+**Core Stack:** Go · Zig · PHP (Laravel) · PostgreSQL · Docker · Linux
+
 
 ---
 
-- 📫 **Email:** [bubadrammehsinera@gmail.com](mailto:bubadrammehsinera@gmail.com)
+- 📫 **Email:** bubadrammehsinera@gmail.com
 - 💬 **Discord:** `_nexxii`
